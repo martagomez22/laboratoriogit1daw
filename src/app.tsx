@@ -37,6 +37,13 @@ const OPTIONS: Option[] = [
     message: "Aprenderás a proponer y revisar cambios mediante Pull Requests.",
     featureFlag: false,
   },
+  {
+    id: 5,
+    title: "Opción 5",
+    description: "Descipción corta",
+    message: "Añadiendo una quinta opción para dominar el flujo de trabajo.",
+    featureFlag: false,
+  }
 ];
 
 export default function App() {
